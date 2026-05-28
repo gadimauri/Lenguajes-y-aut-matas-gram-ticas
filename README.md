@@ -1,2 +1,2 @@
-# Lenguajes-y-aut-matas-gram-ticas
+# Lenguajes y automatas gramaticas
 ejercicios filmina 8
